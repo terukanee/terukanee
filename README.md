@@ -1,7 +1,6 @@
 <div align="center">
-
 <img width="1000" height="600" alt="image0 (6)" src="https://github.com/user-attachments/assets/16e665a4-476f-41ec-8e90-41fe9a7a88ce" />
-<p align="center"> <img width="100" height="100" src="https://komarev.com/ghpvc/?username=terukanee&label=excorcisms&color=842a62&style=flat"
+<p align="center"> <img width="100" height="100" src="https://komarev.com/ghpvc/?username=terukanee&label=exorcisms&color=842a62&style=flat"
 alt="terukanee"/p
 </div>
 <br/>
@@ -39,26 +38,13 @@ alt="terukanee"/p
 <div/>
 <br/>
 <br/>
-<br/>
-<br/>
-  <div align="center">
+<div align="center">
 
 ${\textsf{\color{#732a42} "Considering you’re going this far, I can’t say I’m excited to see what you have in store for me... " }}$
 <br/>
 <div align="center">
 <img width="400" height="500" alt="image0 (7)" src="https://github.com/user-attachments/assets/15595c39-cbb8-49fe-9c1f-9d0a47a03a96" />
-
-</div>
-<br/>
 <div align="center">
-
-my spotify can be here later im lazy.
-
-
-</div>
-<br/>
-<div align="center">
-
 <img width="1000" height="600" alt="image0 (6)" src="https://github.com/user-attachments/assets/16e665a4-476f-41ec-8e90-41fe9a7a88ce" />
 
 
