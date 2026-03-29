@@ -29,7 +29,8 @@ alt="terukanee"/p
 <br/>
 <br/>
 <div align="center">
-<img width="400" height="600" alt="image0 (8)" src="https://github.com/user-attachments/assets/ce25adc3-15ef-4e9d-b467-3d1ab013807b" />
+<img width="400" height="600" alt="image0 (8)" src="https://github.com/user-attachments/assets/628b90b1-86fe-4131-b8df-dd8979fc3e37" />
+
 
 <div/>
 <br/>
